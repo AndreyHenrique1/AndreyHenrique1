@@ -1,5 +1,17 @@
-### Olá, eu me acho Andrey 👋
+### Olá, eu sou o Andrey 👋
 
+### Ferramentas:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="80" height="80" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="80" height="80"/>
+                    
+</div>
+
+          
+          
+          
 <!--
 **AndreyHenrique1/AndreyHenrique1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
