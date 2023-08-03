@@ -14,6 +14,11 @@
 <h5> - Idade: 17 anos</h5>
 <h5> - Curso de Informática (SATC) </h5>
 
+### Contato:
+<div>
+  <a href = "mailto:contato@andreyhenriquejoao@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 
 
           
